@@ -68,7 +68,13 @@ export const NAVIGATION_DEMO: NavItemType[] = [
     type: "none",
     children: templatesChildrenMenus,
   },
-
+  {
+    id: ncNanoId(),
+    href: "/featured",
+    name: "Featured",
+    type: "none",
+    children: otherPageChildMenus,
+  },
   {
     id: ncNanoId(),
     href: "/blog",

@@ -1,0 +1,201 @@
+Hotel_Address,Additional_Number_of_Scoring,Review_Date,Average_Score,Hotel_Name,Reviewer_Nationality,Negative_Review,Review_Total_Negative_Word_Counts,Total_Number_of_Reviews,Positive_Review,Review_Total_Positive_Word_Counts,Total_Number_of_Reviews_Reviewer_Has_Given,Reviewer_Score,Tags,days_since_review,lat,lng
+"Kollam",9,2024-08-05,4.7,Regant Lake Palace Cottages,Sri Lankan,This hotel was gloomy.,4,93,This hotel was charming.,4,73,2.8,Trekking trip,26,44.80,57.97
+"Kollam",10,2024-01-19,2.1,Regant Lake Palace Cottages,Nigerien,This hotel was fantastic.,4,23,This hotel was phenomenal.,4,98,3.3,Sports fan trip,225,44.80,57.97
+"Kollam",5,2024-04-11,2.2,Regant Lake Palace Cottages,East Timorese,This hotel was revolting.,4,89,This hotel was extraordinary.,4,47,4.5,Mission trip,142,44.80,57.97
+"Kollam",3,2024-01-19,2.2,Regant Lake Palace Cottages,Norwegian,This hotel was dreadful.,4,48,This hotel was undistinguished.,4,61,2.0,Cruise trip,225,44.80,57.97
+"Kollam",5,2023-12-21,1.4,Regant Lake Palace Cottages,Chadian,This hotel was shameful.,4,39,This hotel was better.,4,65,3.9,Team-building trip,254,44.80,57.97
+"Kollam",0,2024-07-20,3.3,Regant Lake Palace Cottages,British,This hotel was unfortunate.,4,28,This hotel was unrivaled.,4,70,1.0,Trekking trip,42,44.80,57.97
+"Kollam",3,2024-07-21,4.2,Regant Lake Palace Cottages,Sudanese,This hotel was extraordinary.,4,42,This hotel was pleasing.,4,92,3.0,Romantic getaway,41,44.80,57.97
+"Kollam",7,2023-09-22,4.4,Regant Lake Palace Cottages,Panamanian,This hotel was cruddy.,4,60,This hotel was distinguished.,4,80,2.2,Educational trip,344,44.80,57.97
+"Kollam",9,2024-03-10,2.9,Regant Lake Palace Cottages,Czech,This hotel was fantastic.,4,23,This hotel was exceptional.,4,70,3.9,Incentive trip,174,44.80,57.97
+"Kollam",4,2024-07-22,3.9,Regant Lake Palace Cottages,Belarusian,This hotel was extraordinary.,4,24,This hotel was breathtaking.,4,72,1.6,Adventure trip,40,44.80,57.97
+"Kollam",6,2023-12-17,3.9,Regant Lake Palace Cottages,Montenegrin,This hotel was beastly.,4,43,This hotel was excellent.,4,77,2.4,Wilderness trip,258,44.80,57.97
+"Kollam",7,2024-04-25,3.0,Regant Lake Palace Cottages,Colombian,This hotel was disastrous.,4,28,This hotel was good.,4,86,2.0,Couple,128,44.80,57.97
+"Kollam",1,2024-06-26,1.8,Regant Lake Palace Cottages,Senegalese,This hotel was wretched.,4,75,This hotel was decent.,4,67,4.4,Girls' trip,66,44.80,57.97
+"Kollam",7,2024-08-25,1.4,Regant Lake Palace Cottages,Portuguese,This hotel was gorgeous.,4,87,This hotel was fine.,4,76,2.5,Girls' trip,6,44.80,57.97
+"Kollam",3,2024-07-12,4.3,Regant Lake Palace Cottages,Gambian,This hotel was wicked.,4,10,This hotel was remarkable.,4,89,2.3,Pilgrimage,50,44.80,57.97
+"Kollam",10,2024-06-16,2.8,Regant Lake Palace Cottages,Peruvian,This hotel was lousy.,4,85,This hotel was delightful.,4,87,2.4,Scenic trip,76,44.80,57.97
+"Kollam",1,2024-04-07,4.5,Regant Lake Palace Cottages,Micronesian,This hotel was average.,4,41,This hotel was amazing.,4,35,1.7,Educational trip,146,44.80,57.97
+"Kollam",7,2024-08-22,2.6,Regant Lake Palace Cottages,Indian,This hotel was inexcusable.,4,93,This hotel was exquisite.,4,14,3.8,Summer camp trip,9,44.80,57.97
+"Kollam",3,2024-06-14,3.7,Regant Lake Palace Cottages,Haitian,This hotel was inept.,4,13,This hotel was amazing.,4,35,4.8,Weekend getaway,78,44.80,57.97
+"Kollam",7,2024-06-13,3.9,Regant Lake Palace Cottages,Saint Kitts and Nevis,This hotel was excellent.,4,15,This hotel was gorgeous.,4,20,2.8,Vacation,79,44.80,57.97
+"Kollam",3,2023-11-04,4.3,Regant Lake Palace Cottages,Liberian,This hotel was woeful.,4,48,This hotel was captivating.,4,47,2.5,Road trip,301,44.80,57.97
+"Kollam",3,2024-03-14,4.3,Regant Lake Palace Cottages,Kyrgyzstani,This hotel was inspiring.,4,40,This hotel was impeccable.,4,70,2.6,Photography trip,170,44.80,57.97
+"Kollam",7,2024-03-26,4.1,Regant Lake Palace Cottages,Nauruan,This hotel was grim.,4,19,This hotel was fine.,4,37,4.0,Senior trip,158,44.80,57.97
+"Kollam",7,2024-06-13,3.2,Regant Lake Palace Cottages,Paraguayan,This hotel was amazing.,4,16,This hotel was remarkable.,4,17,3.8,Mission trip,79,44.80,57.97
+"Kollam",1,2023-12-23,4.3,Regant Lake Palace Cottages,North Korean,This hotel was detestable.,4,88,This hotel was phenomenal.,4,56,2.7,Volunteer trip,252,44.80,57.97
+"Kollam",6,2024-01-13,2.5,Regant Lake Palace Cottages,Kenyan,This hotel was tragic.,4,54,This hotel was spectacular.,4,86,2.8,Sports trip,231,44.80,57.97
+"Kollam",1,2024-04-10,2.5,Regant Lake Palace Cottages,Slovenian,This hotel was frightful.,4,85,This hotel was exquisite.,4,64,1.8,Birthday trip,143,44.80,57.97
+"Kollam",7,2023-12-31,3.0,Regant Lake Palace Cottages,Beninese,This hotel was admirable.,4,14,This hotel was unforgettable.,4,43,4.8,Hiking trip,244,44.80,57.97
+"Kollam",7,2024-06-12,4.3,Regant Lake Palace Cottages,South Korean,This hotel was poor.,4,26,This hotel was amazing.,4,31,2.9,Relaxation trip,80,44.80,57.97
+"Kollam",10,2024-01-06,2.4,Regant Lake Palace Cottages,Malawian,This hotel was pleasant.,4,97,This hotel was remarkable.,4,78,3.0,Winter sports trip,238,44.80,57.97
+"Kollam",1,2023-12-27,3.2,Regant Lake Palace Cottages,Spanish,This hotel was chaotic.,4,73,This hotel was fantastic.,4,98,1.1,Festival trip,248,44.80,57.97
+"Kollam",4,2023-12-06,1.2,Regant Lake Palace Cottages,Nigerian,This hotel was wonderful.,4,11,This hotel was okay.,4,83,1.3,Sports fan trip,269,44.80,57.97
+"Kollam",3,2024-03-17,2.2,Regant Lake Palace Cottages,German,This hotel was satisfactory.,4,83,This hotel was laudable.,4,72,1.3,Cultural trip,167,44.80,57.97
+"Kollam",5,2024-02-23,4.6,Regant Lake Palace Cottages,Belizean,This hotel was pitiful.,4,73,This hotel was extraordinary.,4,69,1.4,Team-building trip,190,44.80,57.97
+"Kollam",5,2024-02-13,1.3,Regant Lake Palace Cottages,Armenian,This hotel was laudable.,4,16,This hotel was fine.,4,83,4.9,Eco-tourism trip,200,44.80,57.97
+"Kollam",7,2024-05-02,4.2,Regant Lake Palace Cottages,Czech,This hotel was wrong.,4,87,This hotel was pleasing.,4,18,1.2,Team-building trip,121,44.80,57.97
+"Kollam",8,2023-09-15,2.3,Regant Lake Palace Cottages,Afghan,This hotel was perfect.,4,71,This hotel was better.,4,85,2.2,Holiday trip,351,44.80,57.97
+"Kollam",5,2024-06-02,3.4,Regant Lake Palace Cottages,Belizean,This hotel was hideous.,4,21,This hotel was uplifting.,4,79,4.5,Gap year trip,90,44.80,57.97
+"Kollam",3,2024-03-21,4.3,Regant Lake Palace Cottages,Lebanese,This hotel was untoward.,4,67,This hotel was phenomenal.,4,63,3.6,Business trip,163,44.80,57.97
+"Kollam",3,2023-12-10,3.7,Regant Lake Palace Cottages,Kenyan,This hotel was grim.,4,33,This hotel was captivating.,4,11,1.1,Shopping trip,265,44.80,57.97
+"Kollam",0,2024-03-02,3.0,Regant Lake Palace Cottages,Iraqi,This hotel was sleazy.,4,48,This hotel was average.,4,81,3.5,Milestone trip,182,44.80,57.97
+"Kollam",2,2024-05-15,2.9,Regant Lake Palace Cottages,Bolivian,This hotel was frightful.,4,98,This hotel was amazing.,4,90,3.8,Cruise trip,108,44.80,57.97
+"Kollam",2,2024-02-17,1.6,Regant Lake Palace Cottages,Lithuanian,This hotel was decent.,4,26,This hotel was excellent.,4,22,1.8,Safari trip,196,44.80,57.97
+"Kollam",9,2024-04-01,1.8,Regant Lake Palace Cottages,Polish,This hotel was vile.,4,15,This hotel was impressive.,4,89,2.2,Team-building trip,152,44.80,57.97
+"Kollam",8,2024-03-02,2.9,Regant Lake Palace Cottages,Scottish,This hotel was painful.,4,82,This hotel was average.,4,97,1.9,Shopping trip,182,44.80,57.97
+"Kollam",10,2023-12-15,1.6,Regant Lake Palace Cottages,Guinean,This hotel was sordid.,4,92,This hotel was acceptable.,4,18,4.1,Friendship trip,260,44.80,57.97
+"Kollam",10,2024-06-25,3.5,Regant Lake Palace Cottages,American,This hotel was sorry.,4,89,This hotel was perfect.,4,20,2.1,Road trip,67,44.80,57.97
+"Kollam",10,2023-10-18,1.4,Regant Lake Palace Cottages,British,This hotel was unhappy.,4,79,This hotel was unbelievable.,4,53,2.3,City break,318,44.80,57.97
+"Kollam",1,2024-01-19,3.9,Regant Lake Palace Cottages,Guinean,This hotel was sleazy.,4,47,This hotel was better.,4,74,3.0,Solo trip,225,44.80,57.97
+"Kollam",8,2023-12-13,3.3,Regant Lake Palace Cottages,Saint Vincentian,This hotel was flawless.,4,97,This hotel was stunning.,4,78,3.1,Exploration trip,262,44.80,57.97
+"Kollam",1,2024-08-31,1.0,Ashtamudi Villas,Chadian,This hotel was pitiful.,4,42,This hotel was incredible.,4,51,1.7,Camping trip,0,45.76,50.31
+"Kollam",10,2023-10-24,1.2,Ashtamudi Villas,Georgian,This hotel was sad.,4,33,This hotel was pleasant.,4,60,3.4,History trip,312,45.76,50.31
+"Kollam",2,2024-04-30,3.6,Ashtamudi Villas,Serbian,This hotel was hideous.,4,21,This hotel was charming.,4,63,2.3,Outdoor adventure trip,123,45.76,50.31
+"Kollam",1,2024-08-27,4.5,Ashtamudi Villas,Danish,This hotel was harrowing.,4,62,This hotel was good.,4,36,3.4,Student trip,4,45.76,50.31
+"Kollam",9,2024-01-06,4.8,Ashtamudi Villas,San Marinese,This hotel was obnoxious.,4,76,This hotel was gorgeous.,4,45,3.7,Diving trip,238,45.76,50.31
+"Kollam",10,2024-06-26,2.8,Ashtamudi Villas,Sint Maarten,This hotel was perfect.,4,97,This hotel was satisfactory.,4,53,3.4,Summer camp trip,66,45.76,50.31
+"Kollam",5,2023-09-28,4.1,Ashtamudi Villas,Netherlands Antilles,This hotel was squalid.,4,81,This hotel was phenomenal.,4,11,3.8,Winter holiday trip,338,45.76,50.31
+"Kollam",5,2024-03-29,1.2,Ashtamudi Villas,Paraguayan,This hotel was delightful.,4,43,This hotel was uplifting.,4,70,2.5,Fishing trip,155,45.76,50.31
+"Kollam",1,2023-09-12,3.5,Ashtamudi Villas,Finnish,This hotel was murky.,4,57,This hotel was uplifting.,4,13,3.9,Honeymoon,354,45.76,50.31
+"Kollam",7,2023-12-13,2.4,Ashtamudi Villas,Egyptian,This hotel was shabby.,4,16,This hotel was passable.,4,63,1.0,City break,262,45.76,50.31
+"Kollam",7,2023-10-06,4.2,Ashtamudi Villas,Myanmar,This hotel was fine.,4,13,This hotel was great.,4,29,1.6,Golf trip,330,45.76,50.31
+"Kollam",2,2024-01-23,3.4,Ashtamudi Villas,Qatari,This hotel was dreadful.,4,52,This hotel was sufficient.,4,61,4.8,City break,221,45.76,50.31
+"Kollam",2,2024-01-03,3.4,Ashtamudi Villas,Namibian,This hotel was pleasing.,4,11,This hotel was not bad.,5,90,4.7,Motorcycle trip,241,45.76,50.31
+"Kollam",8,2024-03-01,2.0,Ashtamudi Villas,Sri Lankan,This hotel was shameful.,4,59,This hotel was gorgeous.,4,20,3.8,Festival trip,183,45.76,50.31
+"Kollam",4,2023-12-14,1.2,Ashtamudi Villas,Sri Lankan,This hotel was tragic.,4,83,This hotel was awe-inspiring.,4,39,1.6,Workation trip,261,45.76,50.31
+"Kollam",5,2024-04-02,2.8,Ashtamudi Villas,Brazilian,This hotel was awful.,4,47,This hotel was nice.,4,30,1.8,Shopping trip,151,45.76,50.31
+"Kollam",9,2023-11-12,4.3,Ashtamudi Villas,Costa Rican,This hotel was brilliant.,4,88,This hotel was charming.,4,15,2.9,Luxury trip,293,45.76,50.31
+"Kollam",9,2023-12-28,2.3,Ashtamudi Villas,Panamanian,This hotel was distinguished.,4,26,This hotel was stellar.,4,43,4.6,Leisure trip,247,45.76,50.31
+"Kollam",3,2023-09-15,3.0,Ashtamudi Villas,Norwegian,This hotel was nasty.,4,43,This hotel was awe-inspiring.,4,68,3.8,Shopping trip,351,45.76,50.31
+"Kollam",8,2023-10-14,3.1,Ashtamudi Villas,Saint Vincentian,This hotel was perfect.,4,20,This hotel was nice.,4,42,2.9,Cultural trip,322,45.76,50.31
+"Kollam",2,2024-08-12,5.0,Ashtamudi Villas,Monacan,This hotel was wonderful.,4,29,This hotel was exceptional.,4,78,3.6,Honeymoon,19,45.76,50.31
+"Kollam",3,2024-01-15,4.9,Ashtamudi Villas,Maldivian,This hotel was excellent.,4,68,This hotel was unobjectionable.,4,23,3.2,Sports trip,229,45.76,50.31
+"Kollam",3,2023-10-19,1.7,Ashtamudi Villas,Fijian,This hotel was uninviting.,4,62,This hotel was nice.,4,94,4.6,Tournament trip,317,45.76,50.31
+"Kollam",4,2024-07-28,1.6,Ashtamudi Villas,South African,This hotel was outstanding.,4,94,This hotel was great.,4,22,2.4,Winter sports trip,34,45.76,50.31
+"Kollam",2,2023-10-22,3.2,Ashtamudi Villas,Brazilian,This hotel was slimy.,4,46,This hotel was all right.,5,93,4.5,Winter holiday trip,314,45.76,50.31
+"Kollam",7,2024-07-27,3.5,Ashtamudi Villas,Cypriot,This hotel was exquisite.,4,45,This hotel was respectable.,4,63,4.7,Friendship trip,35,45.76,50.31
+"Kollam",6,2023-09-13,2.3,Ashtamudi Villas,Moldovan,This hotel was repellent.,4,88,This hotel was unforgettable.,4,92,1.7,Gap year trip,353,45.76,50.31
+"Kollam",1,2023-12-26,2.7,Ashtamudi Villas,Guyanese,This hotel was detestable.,4,19,This hotel was welcome.,4,56,1.2,Student trip,249,45.76,50.31
+"Kollam",4,2024-01-28,4.8,Ashtamudi Villas,Papua New Guinean,This hotel was repellent.,4,17,This hotel was sensational.,4,64,3.1,Skiing trip,216,45.76,50.31
+"Kollam",2,2023-09-27,2.2,Ashtamudi Villas,Kenyan,This hotel was wretched.,4,34,This hotel was pleasant.,4,79,1.0,Retreat trip,339,45.76,50.31
+"Kollam",4,2023-10-22,2.8,Ashtamudi Villas,Bruneian,This hotel was commendable.,4,47,This hotel was pleasant.,4,49,1.9,Beach trip,314,45.76,50.31
+"Kollam",5,2024-04-01,1.3,Ashtamudi Villas,Hungarian,This hotel was oppressive.,4,12,This hotel was breathtaking.,4,50,2.7,Wildlife trip,152,45.76,50.31
+"Kollam",1,2024-05-23,4.6,Ashtamudi Villas,Burkinabe,This hotel was bleak.,4,31,This hotel was sufficient.,4,82,1.2,Scenic trip,100,45.76,50.31
+"Kollam",0,2024-05-02,3.8,Ashtamudi Villas,British,This hotel was regrettable.,4,11,This hotel was thrilling.,4,30,4.1,Romantic getaway,121,45.76,50.31
+"Kollam",10,2023-10-29,3.8,Ashtamudi Villas,Northern Irish,This hotel was inexcusable.,4,69,This hotel was superb.,4,45,1.9,Luxury trip,307,45.76,50.31
+"Kollam",5,2023-10-25,1.8,Ashtamudi Villas,Congolese,This hotel was dismal.,4,78,This hotel was perfect.,4,66,4.3,Mission trip,311,45.76,50.31
+"Kollam",0,2023-09-16,4.6,Ashtamudi Villas,Algerian,This hotel was cruddy.,4,26,This hotel was sensational.,4,20,1.4,Exploration trip,350,45.76,50.31
+"Kollam",0,2024-02-15,2.6,Ashtamudi Villas,Mozambican,This hotel was decent.,4,28,This hotel was incredible.,4,86,2.3,Summer camp trip,198,45.76,50.31
+"Kollam",7,2024-06-29,1.3,Ashtamudi Villas,Slovak,This hotel was crummy.,4,87,This hotel was dazzling.,4,28,4.7,Wellness trip,63,45.76,50.31
+"Kollam",9,2024-07-05,3.1,Ashtamudi Villas,Latvian,This hotel was amazing.,4,53,This hotel was pleasant.,4,88,3.9,Diving trip,57,45.76,50.31
+"Kollam",3,2024-02-06,3.4,Ashtamudi Villas,Czech,This hotel was sickening.,4,99,This hotel was lovely.,4,72,3.3,Diving trip,207,45.76,50.31
+"Kollam",8,2023-09-04,1.2,Ashtamudi Villas,Czech,This hotel was rotten.,4,89,This hotel was excellent.,4,100,1.6,Bucket list trip,362,45.76,50.31
+"Kollam",9,2024-05-09,3.2,Ashtamudi Villas,Azerbaijani,This hotel was all right.,5,63,This hotel was fair.,4,20,1.8,Diving trip,114,45.76,50.31
+"Kollam",8,2023-12-12,1.8,Ashtamudi Villas,Finnish,This hotel was delightful.,4,61,This hotel was great.,4,17,4.9,Luxury trip,263,45.76,50.31
+"Kollam",0,2024-03-21,3.3,Ashtamudi Villas,Icelandic,This hotel was sad.,4,34,This hotel was superb.,4,64,2.9,Wildlife trip,163,45.76,50.31
+"Kollam",4,2024-02-26,2.7,Ashtamudi Villas,Seychellois,This hotel was not bad.,5,82,This hotel was awe-inspiring.,4,100,4.7,Festival trip,187,45.76,50.31
+"Kollam",3,2023-12-11,2.4,Ashtamudi Villas,Sierra Leonean,This hotel was the worst.,5,32,This hotel was great.,4,89,3.9,Friendship trip,264,45.76,50.31
+"Kollam",0,2023-12-28,4.3,Ashtamudi Villas,Costa Rican,This hotel was unpleasant.,4,27,This hotel was tremendous.,4,54,3.0,Winter holiday trip,247,45.76,50.31
+"Kollam",3,2024-08-23,4.3,Ashtamudi Villas,French,This hotel was horrific.,4,65,This hotel was unbelievable.,4,29,3.3,Youth trip,8,45.76,50.31
+"Kollam",8,2024-06-16,1.4,Ashtamudi Villas,Georgian,This hotel was fearsome.,4,79,This hotel was breathtaking.,4,23,4.7,Couple,76,45.76,50.31
+"Kannur",9,2024-06-06,1.9,Mascot Beach Resort,Maldivian,This hotel was wonderful.,4,55,This hotel was marvelous.,4,20,2.2,Religious trip,86,62.96,57.75
+"Kannur",2,2024-04-11,4.5,Mascot Beach Resort,Mexican,This hotel was troublesome.,4,52,This hotel was acceptable.,4,58,1.2,Holiday trip,142,62.96,57.75
+"Kannur",6,2024-03-13,1.4,Mascot Beach Resort,South Korean,This hotel was sad.,4,43,This hotel was glorious.,4,45,4.0,Eco-tourism trip,171,62.96,57.75
+"Kannur",6,2023-11-03,1.3,Mascot Beach Resort,Senegalese,This hotel was nauseating.,4,95,This hotel was exquisite.,4,25,3.7,Gap year trip,302,62.96,57.75
+"Kannur",2,2024-07-19,2.7,Mascot Beach Resort,Sao Tomean,This hotel was nasty.,4,77,This hotel was commendable.,4,74,3.2,Pilgrimage,43,62.96,57.75
+"Kannur",10,2024-07-27,1.5,Mascot Beach Resort,Saint Lucian,This hotel was offensive.,4,89,This hotel was respectable.,4,50,3.3,Religious trip,35,62.96,57.75
+"Kannur",5,2024-06-25,3.7,Mascot Beach Resort,Armenian,This hotel was detestable.,4,99,This hotel was exceptional.,4,12,2.0,Wedding trip,67,62.96,57.75
+"Kannur",8,2024-03-25,1.1,Mascot Beach Resort,Sierra Leonean,This hotel was sufficient.,4,41,This hotel was utterly fantastic.,5,70,3.7,Educational trip,159,62.96,57.75
+"Kannur",2,2024-03-26,3.6,Mascot Beach Resort,Chadian,This hotel was calamitous.,4,40,This hotel was astonishing.,4,21,2.7,Milestone trip,158,62.96,57.75
+"Kannur",7,2023-11-24,3.5,Mascot Beach Resort,Kuwaiti,This hotel was cruddy.,4,88,This hotel was fine.,4,48,1.2,Winter sports trip,281,62.96,57.75
+"Kannur",5,2024-07-10,1.3,Mascot Beach Resort,Saint Vincentian,This hotel was preposterous.,4,50,This hotel was glorious.,4,36,1.9,Youth trip,52,62.96,57.75
+"Kannur",10,2024-06-27,1.1,Mascot Beach Resort,Malagasy,This hotel was amazing.,4,17,This hotel was extraordinary.,4,60,3.3,Tournament trip,65,62.96,57.75
+"Kannur",7,2024-01-18,1.9,Mascot Beach Resort,Guatemalan,This hotel was awe-inspiring.,4,57,This hotel was awe-inspiring.,4,14,4.9,Spa trip,226,62.96,57.75
+"Kannur",2,2024-04-06,3.4,Mascot Beach Resort,Croatian,This hotel was preposterous.,4,64,This hotel was unforgettable.,4,98,1.7,Guys' trip,147,62.96,57.75
+"Kannur",1,2024-03-04,2.8,Mascot Beach Resort,Latvian,This hotel was tormented.,4,64,This hotel was extraordinary.,4,45,4.3,Solo trip,180,62.96,57.75
+"Kannur",9,2024-02-20,3.6,Mascot Beach Resort,Seychellois,This hotel was tolerable.,4,32,This hotel was tremendous.,4,23,1.8,Road trip,193,62.96,57.75
+"Kannur",8,2024-04-27,2.4,Mascot Beach Resort,New Zealander,This hotel was admirable.,4,27,This hotel was tremendous.,4,11,1.7,Holiday trip,126,62.96,57.75
+"Kannur",4,2024-02-01,3.2,Mascot Beach Resort,South Sudanese,This hotel was astonishing.,4,14,This hotel was acceptable.,4,13,1.5,Winter sports trip,212,62.96,57.75
+"Kannur",1,2023-10-13,4.5,Mascot Beach Resort,Guinean,This hotel was delightful.,4,27,This hotel was spectacular.,4,76,1.7,Camping trip,323,62.96,57.75
+"Kannur",10,2023-10-19,4.3,Mascot Beach Resort,Austrian,This hotel was worrisome.,4,41,This hotel was glorious.,4,93,4.6,Motorcycle trip,317,62.96,57.75
+"Kannur",3,2024-03-10,1.5,Mascot Beach Resort,Comoran,This hotel was vulgar.,4,35,This hotel was undistinguished.,4,53,3.7,Spiritual trip,174,62.96,57.75
+"Kannur",1,2024-03-12,3.6,Mascot Beach Resort,Singaporean,This hotel was atrocious.,4,48,This hotel was fantastic.,4,19,1.8,Eco-tourism trip,172,62.96,57.75
+"Kannur",0,2024-01-08,2.8,Mascot Beach Resort,Sudanese,This hotel was impeccable.,4,86,This hotel was brilliant.,4,55,2.1,Religious trip,236,62.96,57.75
+"Kannur",9,2023-10-07,2.7,Mascot Beach Resort,South Korean,This hotel was unobjectionable.,4,14,This hotel was tremendous.,4,56,1.6,Adventure trip,329,62.96,57.75
+"Kannur",3,2024-05-02,4.9,Mascot Beach Resort,Sao Tomean,This hotel was nauseating.,4,74,This hotel was unbelievable.,4,52,2.2,Wedding trip,121,62.96,57.75
+"Kannur",1,2024-06-23,1.4,Mascot Beach Resort,Israeli,This hotel was terrible.,4,47,This hotel was awesome.,4,77,2.6,Skiing trip,69,62.96,57.75
+"Kannur",4,2024-03-30,2.4,Mascot Beach Resort,Slovenian,This hotel was stinking.,4,14,This hotel was decent.,4,58,3.7,History trip,154,62.96,57.75
+"Kannur",5,2023-09-05,3.6,Mascot Beach Resort,Albanian,This hotel was lovely.,4,83,This hotel was decent.,4,29,1.7,Senior trip,361,62.96,57.75
+"Kannur",7,2024-05-11,1.3,Mascot Beach Resort,Haitian,This hotel was satisfactory.,4,48,This hotel was phenomenal.,4,31,2.8,Holiday trip,112,62.96,57.75
+"Kannur",8,2024-04-25,3.2,Mascot Beach Resort,Albanian,This hotel was calamitous.,4,33,This hotel was exquisite.,4,30,4.0,Gap year trip,128,62.96,57.75
+"Kannur",5,2024-01-07,4.4,Mascot Beach Resort,Cuban,This hotel was sickening.,4,53,This hotel was pleasant.,4,57,3.4,Diving trip,237,62.96,57.75
+"Kannur",2,2024-06-19,1.5,Mascot Beach Resort,American,This hotel was horrific.,4,67,This hotel was okay.,4,21,1.7,Birthday trip,73,62.96,57.75
+"Kannur",1,2024-08-28,2.6,Mascot Beach Resort,Kosovar,This hotel was awful.,4,56,This hotel was flawless.,4,96,3.7,Retreat trip,3,62.96,57.75
+"Kannur",7,2023-11-12,2.9,Mascot Beach Resort,Seychellois,This hotel was exceptional.,4,38,This hotel was good.,4,42,1.2,Senior trip,293,62.96,57.75
+"Kannur",1,2024-03-18,2.1,Mascot Beach Resort,American,This hotel was shameful.,4,49,This hotel was phenomenal.,4,70,2.3,Student trip,166,62.96,57.75
+"Kannur",5,2023-09-16,2.8,Mascot Beach Resort,Nauruan,This hotel was acceptable.,4,30,This hotel was amazing.,4,36,4.1,Hiking trip,350,62.96,57.75
+"Kannur",4,2024-01-16,4.2,Mascot Beach Resort,Nauruan,This hotel was atrocious.,4,73,This hotel was tolerable.,4,21,4.2,Couple,228,62.96,57.75
+"Kannur",1,2023-09-11,3.2,Mascot Beach Resort,Argentine,This hotel was passable.,4,94,This hotel was stunning.,4,84,4.7,Religious trip,355,62.96,57.75
+"Kannur",7,2024-05-17,1.3,Mascot Beach Resort,Ethiopian,This hotel was murky.,4,40,This hotel was pleasant.,4,43,3.7,Spa trip,106,62.96,57.75
+"Kannur",3,2024-04-19,2.5,Mascot Beach Resort,Burmese,This hotel was flawless.,4,65,This hotel was captivating.,4,73,3.8,Student trip,134,62.96,57.75
+"Kannur",3,2024-04-11,3.8,Mascot Beach Resort,Luxembourgish,This hotel was inspiring.,4,52,This hotel was adequate.,4,30,2.9,Couple,142,62.96,57.75
+"Kannur",4,2024-03-07,1.9,Mascot Beach Resort,Laotian,This hotel was beastly.,4,54,This hotel was remarkable.,4,30,4.1,Winter sports trip,177,62.96,57.75
+"Kannur",0,2024-03-29,4.5,Mascot Beach Resort,Ecuadorian,This hotel was repulsive.,4,93,This hotel was lovely.,4,60,1.5,Senior trip,155,62.96,57.75
+"Kannur",5,2023-10-02,3.8,Mascot Beach Resort,Panamanian,This hotel was uninviting.,4,69,This hotel was outstanding.,4,77,3.0,Camping trip,334,62.96,57.75
+"Kannur",8,2024-01-02,3.2,Mascot Beach Resort,Bulgarian,This hotel was painful.,4,16,This hotel was uplifting.,4,88,2.7,Winter sports trip,242,62.96,57.75
+"Kannur",6,2024-06-22,1.5,Mascot Beach Resort,Gambian,This hotel was commendable.,4,87,This hotel was gorgeous.,4,89,2.5,Milestone trip,70,62.96,57.75
+"Kannur",0,2024-04-22,4.4,Mascot Beach Resort,Burmese,This hotel was scandalous.,4,51,This hotel was adequate.,4,82,3.9,Island trip,131,62.96,57.75
+"Kannur",2,2023-12-03,2.8,Mascot Beach Resort,French,This hotel was murky.,4,29,This hotel was terrific.,4,33,3.6,Hiking trip,272,62.96,57.75
+"Kannur",3,2024-08-20,4.7,Mascot Beach Resort,Peruvian,This hotel was average.,4,56,This hotel was unforgettable.,4,20,1.3,LGBTQ+ trip,11,62.96,57.75
+"Kannur",0,2024-08-25,4.3,Mascot Beach Resort,Croatian,This hotel was terrible.,4,65,This hotel was inspiring.,4,94,2.3,Gap year trip,6,62.96,57.75
+kollam,4,2023-10-08,4.9,Blue Lake Villa,Bangladeshi,This hotel was invidious.,4,20,This hotel was excellent.,4,47,2.4,Educational trip,329,49.71,46.91
+kollam,1,2024-06-03,1.7,Blue Lake Villa,Equatoguinean,This hotel was beastly.,4,96,This hotel was dazzling.,4,64,3.6,Friendship trip,90,49.71,46.91
+kollam,5,2024-04-16,4.5,Blue Lake Villa,Nepalese,This hotel was torturous.,4,15,This hotel was breathtaking.,4,99,3.2,Hiking trip,138,49.71,46.91
+kollam,0,2024-07-31,2.5,Blue Lake Villa,Palauan,This hotel was outstanding.,4,26,This hotel was astonishing.,4,84,3.7,Outdoor adventure trip,32,49.71,46.91
+kollam,9,2023-12-09,2.4,Blue Lake Villa,Cambodian,This hotel was okay.,4,100,This hotel was not bad.,5,54,2.8,Cycling trip,267,49.71,46.91
+kollam,4,2023-11-20,2.5,Blue Lake Villa,Filipino,This hotel was horrific.,4,59,This hotel was sensational.,4,85,4.5,Senior trip,286,49.71,46.91
+kollam,9,2024-05-08,2.3,Blue Lake Villa,Emirati,This hotel was commendable.,4,83,This hotel was amazing.,4,53,2.9,Outdoor adventure trip,116,49.71,46.91
+kollam,7,2023-10-24,2.5,Blue Lake Villa,Myanmar,This hotel was troublesome.,4,64,This hotel was respectable.,4,98,3.2,Ladies' trip,313,49.71,46.91
+kollam,5,2023-11-19,1.8,Blue Lake Villa,Mongolian,This hotel was obnoxious.,4,65,This hotel was dazzling.,4,43,2.9,Photography trip,287,49.71,46.91
+kollam,4,2023-09-28,2.2,Blue Lake Villa,Ivorian,This hotel was outstanding.,4,17,This hotel was fine.,4,86,2.5,Wedding trip,339,49.71,46.91
+kollam,2,2024-07-10,4.7,Blue Lake Villa,Botswana,This hotel was calamitous.,4,40,This hotel was remarkable.,4,61,2.6,Scenic trip,53,49.71,46.91
+kollam,10,2024-03-16,3.0,Blue Lake Villa,Belizean,This hotel was adequate.,4,79,This hotel was sufficient.,4,25,2.1,Camping trip,169,49.71,46.91
+kollam,4,2023-12-08,5.0,Blue Lake Villa,Liberian,This hotel was ridiculous.,4,24,This hotel was exceptional.,4,53,2.0,Fishing trip,268,49.71,46.91
+kollam,1,2024-08-22,1.2,Blue Lake Villa,Swazi,This hotel was the worst.,5,90,This hotel was outstanding.,4,92,3.5,Solo trip,10,49.71,46.91
+kollam,7,2024-06-05,2.1,Blue Lake Villa,Kazakhstani,This hotel was unbearable.,4,89,This hotel was tolerable.,4,99,4.4,Luxury trip,88,49.71,46.91
+kollam,6,2024-07-12,4.7,Blue Lake Villa,Jamaican,This hotel was fantastic.,4,41,This hotel was tolerable.,4,61,1.8,Relaxation trip,51,49.71,46.91
+kollam,5,2023-10-16,2.1,Blue Lake Villa,Ethiopian,This hotel was astonishing.,4,52,This hotel was fine.,4,38,4.5,Adventure trip,321,49.71,46.91
+kollam,0,2023-11-18,1.6,Blue Lake Villa,Honduran,This hotel was unpleasant.,4,18,This hotel was welcome.,4,95,1.8,Leisure trip,288,49.71,46.91
+kollam,8,2023-09-02,2.9,Blue Lake Villa,Honduran,This hotel was offensive.,4,46,This hotel was awesome.,4,18,1.8,Motorcycle trip,365,49.71,46.91
+kollam,9,2024-03-11,1.0,Blue Lake Villa,Surinamese,This hotel was amazing.,4,49,This hotel was unparalleled.,4,65,1.4,Summer camp trip,174,49.71,46.91
+kollam,4,2023-09-19,3.5,Blue Lake Villa,Kosovar,This hotel was infernal.,4,52,This hotel was distinguished.,4,74,5.0,Tournament trip,348,49.71,46.91
+kollam,4,2024-08-15,4.8,Blue Lake Villa,Azerbaijani,This hotel was miserable.,4,99,This hotel was impeccable.,4,11,4.6,Leisure trip,17,49.71,46.91
+kollam,9,2024-07-27,2.3,Blue Lake Villa,Bahamian,This hotel was marvelous.,4,36,This hotel was perfect.,4,35,4.4,Family trip,36,49.71,46.91
+kollam,2,2024-01-12,4.6,Blue Lake Villa,Italian,This hotel was satisfactory.,4,22,This hotel was respectable.,4,36,2.2,Wellness trip,233,49.71,46.91
+kollam,8,2024-08-29,2.9,Blue Lake Villa,Nigerien,This hotel was harrowing.,4,76,This hotel was spectacular.,4,20,4.6,Retreat trip,3,49.71,46.91
+kollam,3,2023-09-07,3.5,Blue Lake Villa,Guinean,This hotel was offensive.,4,11,This hotel was awesome.,4,86,5.0,City break,360,49.71,46.91
+kollam,6,2024-01-09,4.4,Blue Lake Villa,Kuwaiti,This hotel was lovely.,4,68,This hotel was passable.,4,69,2.3,Cruise trip,236,49.71,46.91
+kollam,4,2024-04-14,1.5,Blue Lake Villa,Moldovan,This hotel was the worst.,5,51,This hotel was nice.,4,57,2.0,Retreat trip,140,49.71,46.91
+kollam,5,2023-12-20,4.4,Blue Lake Villa,Israeli,This hotel was bitter.,4,78,This hotel was unbelievable.,4,67,2.3,Sports trip,256,49.71,46.91
+kollam,3,2024-06-29,2.1,Blue Lake Villa,South African,This hotel was pitiful.,4,77,This hotel was wonderful.,4,26,2.8,Bucket list trip,64,49.71,46.91
+kollam,3,2023-11-04,4.5,Blue Lake Villa,Bangladeshi,This hotel was okay.,4,91,This hotel was remarkable.,4,81,4.5,Birthday trip,302,49.71,46.91
+kollam,8,2024-08-20,4.6,Blue Lake Villa,Nepalese,This hotel was brilliant.,4,100,This hotel was terrific.,4,95,4.8,Food and wine trip,12,49.71,46.91
+kollam,9,2023-12-07,3.9,Blue Lake Villa,Omani,This hotel was impeccable.,4,82,This hotel was dazzling.,4,17,1.8,Island trip,269,49.71,46.91
+kollam,10,2024-03-23,1.1,Blue Lake Villa,Israeli,This hotel was painful.,4,48,This hotel was pleasing.,4,64,1.1,Relaxation trip,162,49.71,46.91
+kollam,4,2023-11-04,4.5,Blue Lake Villa,Ethiopian,This hotel was hideous.,4,19,This hotel was laudable.,4,27,2.5,Winter holiday trip,302,49.71,46.91
+kollam,1,2024-02-22,1.3,Blue Lake Villa,Ecuadorian,This hotel was tainted.,4,47,This hotel was impressive.,4,67,1.8,Milestone trip,192,49.71,46.91
+kollam,10,2024-02-20,1.8,Blue Lake Villa,Armenian,This hotel was unwelcome.,4,44,This hotel was stellar.,4,43,2.1,Skiing trip,194,49.71,46.91
+kollam,5,2024-06-04,3.2,Blue Lake Villa,Saint Kitts and Nevis,This hotel was sad.,4,51,This hotel was charming.,4,37,4.9,Pilgrimage,89,49.71,46.91
+kollam,10,2024-01-22,3.8,Blue Lake Villa,Bangladeshi,This hotel was stormy.,4,99,This hotel was stellar.,4,64,1.8,Vacation,223,49.71,46.91
+kollam,10,2024-04-06,2.9,Blue Lake Villa,Moroccan,This hotel was calamitous.,4,16,This hotel was pleasing.,4,98,4.8,Senior trip,148,49.71,46.91
+kollam,3,2024-05-12,1.1,Blue Lake Villa,Paraguayan,This hotel was not bad.,5,59,This hotel was splendid.,4,59,2.7,Backpacking trip,112,49.71,46.91
+kollam,6,2024-08-30,2.6,Blue Lake Villa,Nauruan,This hotel was not bad.,5,59,This hotel was better.,4,26,4.6,Winter holiday trip,2,49.71,46.91
+kollam,1,2024-04-14,1.6,Blue Lake Villa,Armenian,This hotel was satisfactory.,4,54,This hotel was breathtaking.,4,24,4.6,Winter holiday trip,140,49.71,46.91
+kollam,3,2023-11-22,2.3,Blue Lake Villa,Mauritanian,This hotel was not bad.,5,92,This hotel was awe-inspiring.,4,25,2.7,Sports trip,284,49.71,46.91
+kollam,8,2024-01-21,2.2,Blue Lake Villa,French,This hotel was ludicrous.,4,50,This hotel was marvelous.,4,47,2.3,Mission trip,224,49.71,46.91
+kollam,3,2024-04-27,3.9,Blue Lake Villa,Maltese,This hotel was incredible.,4,92,This hotel was charming.,4,55,2.4,Wilderness trip,127,49.71,46.91
+kollam,5,2023-11-07,4.1,Blue Lake Villa,Bahraini,This hotel was terrible.,4,15,This hotel was unbelievable.,4,91,1.1,Winter holiday trip,299,49.71,46.91
+kollam,9,2023-11-26,4.2,Blue Lake Villa,British,This hotel was lousy.,4,65,This hotel was terrific.,4,66,5.0,Family trip,280,49.71,46.91
+kollam,8,2024-06-28,3.8,Blue Lake Villa,Swazi,This hotel was preposterous.,4,86,This hotel was wonderful.,4,87,2.7,Honeymoon,65,49.71,46.91
+kollam,8,2023-09-13,2.7,Blue Lake Villa,Romanian,This hotel was welcome.,4,81,This hotel was fine.,4,33,1.7,Bucket list trip,354,49.71,46.91

@@ -11,6 +11,9 @@ import {CheckAccuntStats, createOrupdateUser, fetchUserInfo} from '@/actions/ser
 import { LoadingOutlined } from '@ant-design/icons';
 import toast from "react-hot-toast";
 import { useRouter } from "next/navigation";
+import { options } from "@/utils/options";
+import { MultiSelect } from "react-multi-select-component";
+
 
 
 const AccountPage = () => {
@@ -25,20 +28,27 @@ const AccountPage = () => {
   const [bio, setBio] = useState("");
   const [contactNumber, setContactNumber] = useState("");
   const [loading, setLoading] = useState(false)
+  const [selected, setSelected] = useState([]);
+  const [role, setRole] = useState('owner')
   const router = useRouter()
+  
 
   useEffect(()=>{
      async function fetchUser(){
       if(user){
         const customer = await fetchUserInfo(user.id)
         if(customer){
-          const {name, gender, dateOfBirth, address, bio, contactNumber} = customer
+          const {name, gender, dateOfBirth, address, bio, contactNumber, purposeOfTrip, role} = customer
           setName(name);
           setGender(gender);
           setDateOfBirth(dateOfBirth ? new Date(dateOfBirth).toISOString().split('T')[0] : '');
           setAddress(address);
           setBio(bio);
           setContactNumber(contactNumber);
+          const purposeOfTripArray = purposeOfTrip.split(',').map(item => item.trim());
+          const formattedPurposeOfTrip = purposeOfTripArray.map(item => ({ label: item, value: item }));
+          setSelected(prevSelected => [...prevSelected, ...formattedPurposeOfTrip]);
+          setRole(role)
         }
       }
     }
@@ -61,6 +71,7 @@ const AccountPage = () => {
       const dateOfbirth = formdata.get("dateOfBirth");
       const contactNumber = formdata.get("contactNumber");
       const gender = formdata.get("gender");
+      const selectedValues = selected.map(item => item.value).join(',');
 
       if (profile) {
         const reader = new FileReader();
@@ -80,7 +91,8 @@ const AccountPage = () => {
         contactNumber,
         gender,
         user?.primaryEmailAddress?.emailAddress,
-        user.id
+        user.id,
+        selectedValues
       );
       setLoading(false)
       toast.success('updated successfully', {position: "top-right"})
@@ -209,6 +221,17 @@ const AccountPage = () => {
               onChange={(e) => setContactNumber(e.target.value)}
             />
           </div>
+          {role && ( role === 'customer' &&
+            <div>
+            <Label>What are your main purpose of Travel</Label>
+            <MultiSelect
+              options={options}
+              value={selected}
+              onChange={setSelected}
+              labelledBy="Select"
+              hasSelectAll={false}
+            />
+          </div>)}
           <div>
             <Label>About you</Label>
             <Textarea
@@ -218,6 +241,7 @@ const AccountPage = () => {
               onChange={(e) => setBio(e.target.value)}
             />
           </div>
+          
           <div className="pt-2">
             <button className="ttnc-ButtonPrimary px-4 py-3 sm:px-6 rounded-xl text-sm sm:text-base font-medium disabled:bg-opacity-70 bg-primary-6000 hover:bg-primary-700 text-neutral-50" disabled={loading} >{loading ? <LoadingOutlined />: 'update info'}</button>
           </div>

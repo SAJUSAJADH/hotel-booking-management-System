@@ -1,15 +1,20 @@
 import os
 import pandas as pd
 import numpy as np
+import nltk
 from nltk.tokenize import word_tokenize
 from nltk.stem.wordnet import WordNetLemmatizer
 from nltk.corpus import stopwords
+
+nltk.download('punkt_tab')
+nltk.download('stopwords')
+nltk.download('wordnet')
 
 def load_data():
     file_path = "api/dataset/hotels.csv"
     # Check if the file exists and is not empty
     if os.path.exists(file_path) and os.stat(file_path).st_size > 0:
-        return pd.read_csv(file_path)
+        return pd.read_csv(file_path, encoding='ISO-8859-1')
     else:
         # Return an empty DataFrame or a default value
         return pd.DataFrame()
@@ -42,12 +47,14 @@ def recommend_hotel(location, description):
         return {"message": "No hotel data available at the moment."}
 
     description = description.lower()
+
     description_tokens = word_tokenize(description)
+
     
     stop_words = set(stopwords.words('english'))
     lemm = WordNetLemmatizer()
     filtered_set = {lemm.lemmatize(word) for word in description_tokens if word not in stop_words}
-    
+
     country_hotels = data[data['countries'] == location.lower()]
     country_hotels = country_hotels.set_index(np.arange(country_hotels.shape[0]))
     
@@ -67,4 +74,5 @@ def recommend_hotel(location, description):
     country_hotels.sort_values('Average_Score', ascending=False, inplace=True)
     country_hotels.reset_index(inplace=True, drop=True)
     
-    return country_hotels[["Hotel_Name", "Average_Score", "Hotel_Address"]].head().to_dict(orient='records')[0]
+    return country_hotels[["Hotel_Name", "Average_Score", "Hotel_Address"]].to_dict(orient='records')
+

@@ -73,13 +73,14 @@ def write_to_csv(hotel_name, address, lat, lng):
 def home():
     return 'Welcome to the Flask Service!'
 
-@app.route('/api/list_hotel', methods=['GET'])
+@app.route('/api/list_hotel', methods=['POST'])
 def list_hotel():
     hotel_name = request.form['hotel_name']
     address = request.form['address']
     lat = request.form['lat']
     lng = request.form['lng']
     write_to_csv(hotel_name, address, lat, lng)
+    return jsonify({"message":"ok"})
 
 @app.route('/api/recommend', methods=['POST'])
 def recommendHotels():
@@ -87,6 +88,7 @@ def recommendHotels():
         # Get parameters from request
         location = request.form['location']
         description = request.form['description']
+
         
         # Validate input
         if not location or not description:
@@ -94,9 +96,12 @@ def recommendHotels():
         
         # Call the recommendation function
         recommended_hotels = recommend_hotel(location, description)
-        
+ 
         # Return the result as JSON
         return jsonify(recommended_hotels)
     
     except Exception as e:
         return jsonify({"error": str(e)}), 500
+    
+if __name__ == '__main__':
+    app.run(debug=True, host='0.0.0.0')

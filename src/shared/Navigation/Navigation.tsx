@@ -23,10 +23,10 @@ function Navigation() {
       }
     }
     fu()
-  },[])
+  },[user])
   return (
     <ul className="nc-Navigation hidden lg:flex lg:flex-wrap lg:space-x-1 relative">
-      {session?.role === 'owner' ? NAVIGATION_DEMO.map((item) => (
+      {session?.role === 'owner' ? NAVIGATION_DEMO.filter((item) => item.name !== 'Featured').map((item) => (
         <NavigationItem key={item.id} menuItem={item} /> 
       ))
       : session?.role === 'customer' ? NAVIGATION_DEMO.filter((item) => item.name !== 'Listing Page').map((item) => (

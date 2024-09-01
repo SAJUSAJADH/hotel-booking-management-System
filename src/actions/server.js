@@ -21,7 +21,7 @@ export async function CheckAccuntStats(id) {
 
 
 
-export const createOrupdateUser = async (name, bio, address, dateOfbirth, contactNumber, gender, email, userid) => {
+export const createOrupdateUser = async (name, bio, address, dateOfbirth, contactNumber, gender, email, userid, purposeOfTrip) => {
     
     await Connect();
      let customer = await User.findOne({userid: userid})
@@ -36,7 +36,8 @@ export const createOrupdateUser = async (name, bio, address, dateOfbirth, contac
                 address: address, 
                 dateOfBirth: dateOfbirth, 
                 contactNumber: contactNumber, 
-                gender: gender
+                gender: gender,
+                purposeOfTrip: purposeOfTrip
              }
          }, {new: true})
      }
@@ -195,6 +196,13 @@ export const createOrupdateUser = async (name, bio, address, dateOfbirth, contac
 
     return JSON.parse(JSON.stringify(places))
  }
+
+ export const getRecommendedHotels= async (hotel_names) => {
+    await Connect();
+    const totalListings = await Place.find({title: { $in: hotel_names }})
+    return JSON.parse(JSON.stringify(totalListings))
+ }
+
 
  export async function suspendAccounts(identifier, repath) {
     await Connect()

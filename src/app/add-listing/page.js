@@ -142,8 +142,8 @@ export default function Addplace(){
                         <input spellCheck="false" value={title} onChange={ev => setTitle(ev.target.value)} className="rounded-full w-full  border-2 px-2 py-2 focus:outline-none border-gray-600" placeholder="Title should be catchy as in advertisement."></input>
                         </div>
                         <div className="">
-                        <h2 className="font-semibold py-2 text-3xl">Address <span className="text-red-600"> *</span></h2>
-                        <p className="italic text-base  lg:text-lg">Provide the Address of your destination.</p>
+                        <h2 className="font-semibold py-2 text-3xl">Place <span className="text-red-600"> *</span></h2>
+                        <p className="italic text-base  lg:text-lg">Provide the Place where your destination.</p>
                         <input spellCheck="false" value={address} onChange={ev => setAddress(ev.target.value)} className="rounded-full w-full  border-2 px-2 py-2 focus:outline-none border-gray-600" placeholder="Address of your destination."></input>
                         </div>
                     </div>
